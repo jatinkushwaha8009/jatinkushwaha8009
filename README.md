@@ -48,8 +48,8 @@
 
 ### Server-Side Languages:
 
-| Pytorch | Numpy | Pandas | Sklearn | OpenCV |
-|----------|----------|----------|----------|----------|
+| Pytorch | Numpy | 
+|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
 
