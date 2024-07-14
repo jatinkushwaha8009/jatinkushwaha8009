@@ -10,13 +10,17 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 👀 I’m interested in AI and Robotics, Data Analysis, and Software Development.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+🌱 I’m currently learning advanced AI and Robotics at Indian Institute of Information Technology, Allahabad (IIIT-A)
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💞️ I’m looking to collaborate on Machine Learning projects and innovative tech solutions.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+📫 How to reach me: jatinkushwaha8009@gmail.com | https://www.linkedin.com/in/jatin-kushwaha-a943b8246/
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy playing cricket, listening music and love traveling.
 
  </div>
  
